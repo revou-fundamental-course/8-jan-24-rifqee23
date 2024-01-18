@@ -1,12 +1,3 @@
-:root{
-    --background: #00000044;
-	--glow-object: #a530ff;
-	--glow-object-grad: linear-gradient(to bottom right, #9d1fff, #bf1fff);
-	--glow-object-grad-text: linear-gradient(to bottom right, #d770ff, #bc85ff);
-	--glow-shadow: #7900ff;
-	--glow-shadow-text: #7900ffbb;
-	--text: #fff;
-}
 span{
     font-size:large;
 }
