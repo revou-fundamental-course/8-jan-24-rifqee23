@@ -410,7 +410,7 @@ a {
     }
 
     .capt-rumus, .keterangan {
-        text-indent: 20px;
+        text-indent: 0px;
     }
 
     button {
